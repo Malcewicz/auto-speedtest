@@ -12,6 +12,6 @@ This is how the script looks:
 
 # How to run the script
 
-To run the script I use the windows command line and python. In CMD go to the folder in which the script is located and type:
-`python auto-speedtest.py`
+To run the script I use the windows command line and python. In CMD go to the folder in which the script is located and type: 
+```python auto-speedtest.py```
 Thats it, now the script will start and create a speedtestResults.csv file in the same location.
